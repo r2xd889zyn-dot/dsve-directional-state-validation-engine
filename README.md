@@ -241,3 +241,4 @@ POST /validate{
 Use:
 
 👉 MIT License (simple and flexible)
+
